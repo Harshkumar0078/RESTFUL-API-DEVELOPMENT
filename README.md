@@ -29,3 +29,12 @@ Additional features include role-based access control (Owner, Editor, Viewer), r
 Performance evaluations demonstrate that the platform can handle multiple concurrent users with efficient synchronization and stable connections, making it suitable for educational use, team collaboration, and technical interviews.
 
 Overall, CodeSync represents a comprehensive solution for modern collaborative coding, combining real-time interaction, execution capabilities, and AI assistance into a single powerful platform.
+<img width="1873" height="864" alt="image" src="https://github.com/user-attachments/assets/499b3720-c98f-4021-9def-01f390a28c1a" />
+<img width="1873" height="864" alt="image" src="https://github.com/user-attachments/assets/c26292fc-bf8f-411b-bfcf-7627a390483b" />
+<img width="1870" height="841" alt="Screenshot 2026-04-22 134413" src="https://github.com/user-attachments/assets/535d5dca-e3a6-435c-ba83-313ea3439068" />
+<img width="1873" height="872" alt="Screenshot 2026-04-22 134428" src="https://github.com/user-attachments/assets/d7e4ffa4-df31-49c5-a697-7bda918d2cfc" />
+<img width="1880" height="864" alt="Screenshot 2026-04-22 134440" src="https://github.com/user-attachments/assets/4d4fd76b-3ca1-4f95-8e2b-686b9e0eaff6" />
+<img width="1873" height="864" alt="Screenshot 2026-04-22 134449" src="https://github.com/user-attachments/assets/434b998e-188d-44c8-b05a-d5ce293b18c3" />
+
+
+
